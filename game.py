@@ -27,4 +27,4 @@ while attempts < max_attempts:
     print(f"Attempts left: {max_attempts - attempts}\n")
 
 if guess != secret_number:
-    print(f"\n Game Over! The correct number was {secret_number}.")
+    print(f"\nGame Over! The correct number was {secret_number}.")
